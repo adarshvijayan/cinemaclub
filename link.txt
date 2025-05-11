@@ -1,0 +1,7 @@
+
+API Key: 58ce37fc3f48869065f526bdac3e170a
+Base URL: https://api.themoviedb.org/3
+
+search:https://api.themoviedb.org/3/search/movie?api_key=58ce37fc3f48869065f526bdac3e170a&language=en-US&page=1
+
+Now Playing: https://api.themoviedb.org/3/movie/now_playing?api_key=58ce37fc3f48869065f526bdac3e170a&language=en-US&page=1
